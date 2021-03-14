@@ -1,0 +1,12 @@
+.RecongiseSpan {
+  display: inline-block;
+  width: 30px;
+  height: 20px;
+  border-radius: 10px;
+}
+.RecoDiv {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+  margin-left: 0;
+}
